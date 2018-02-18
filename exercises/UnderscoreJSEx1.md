@@ -23,6 +23,6 @@
 
 1.	Download *Underscore* development version from [http://underscore.org](http://underscorejs.org).  Save it in the ``UnderScore`` folder.
 
-2.	Examine and open in your browser the [HelloUnderscore.html](http://localhost/UnderScore/HelloUnderscore.html) file.  Open the *console* tab within the browser to see the program output.
+2.	Examine and open in your browser the [http://localhost/UnderScore/HelloUnderscore.html](http://localhost/UnderScore/HelloUnderscore.html) file.  Open the *console* tab within the browser to see the program output.
 
 	And you're on your way...
