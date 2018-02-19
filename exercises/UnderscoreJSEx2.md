@@ -2,7 +2,7 @@
 		
 > Complete ALL the exercises in this section. 
 
-1.	Examine the [players.js](http://localhost/UnderScore/players.js) JSON data file.  
+1.	Examine the [players.js](http://localhost/UnderScore/players.js) JavaScript file.  
 
 1.	Examine and open the programs ``playerNames.html`` and ``playerNames.js`` 
 
