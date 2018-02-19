@@ -4,7 +4,7 @@
 
 1.	Examine the [players.js](http://localhost/UnderScore/players.js) JavaScript file.  
 
-1.	Examine and open the programs ``playerNames.html`` and ``playerNames.js`` 
+1.	Examine and open the programs [http://localhost/UnderScore/playerNames.html](http://localhost/UnderScore/playerNames.html) and ``playerNames.js`` 
 
 1.	Using the Underscore ``each()`` function update ``playerNames.js`` to print the name of every player.  Use a ``<br>`` tag to separate each name.
 
