@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+    <script type="text/javascript" src="underscore.js"></script>
+    <script type="text/javascript" src="stations.js"></script>
+    <script type="text/javascript">
+    	window.onload=function(){
+    		function printStationData(element,i){
+	    		var div=document.getElementById("data");
+	    		div.innerHTML = div.innerHTML + i + ": " + element.name + "<br>";
+	    	}				
+			_.each(stations, printStationData);
+		}
+	</script>	
+</head>
+<body>
+<h1>Stations</h1>
+<div id="data"></div>
+</body>
+</html>
