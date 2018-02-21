@@ -33,7 +33,7 @@ $ git status
 
 ## Part 2 - ``findWhere()``
 
-1.	Examine and open the file [http://localhost/UnderScore/playerWhere.html](http://localhost/UnderScore/playerFind.html) and ``playerWhere.js``.
+1.	Examine and open the file [http://localhost/UnderScore/playerWhere.html](http://localhost/UnderScore/playerWhere.html) and ``playerWhere.js``.
 
 1.	Modify the code so that a user can search for the first player by *team* and *position* e.g. ``LIV`` and ``Forward`` should return *Firmino*.
 
