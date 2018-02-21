@@ -4,7 +4,7 @@
 
 ```
 $ cd /DRIVE/xampp/htdocs/UnderScore
-$ git pull --no-edit https://github.com/noucampdotorgRESTAPICOMP/UnderScore.git latest
+$ git pull --no-edit https://github.com/noucampdotorgSSAD/UnderScore.git latest
 $ ls
 $ git status
 
